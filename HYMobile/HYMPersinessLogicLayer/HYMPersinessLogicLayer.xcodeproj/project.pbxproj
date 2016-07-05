@@ -1,0 +1,253 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		66D1C9E81D2B872B00257757 /* HYMPersinessLogicLayer.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = 66D1C9E71D2B872B00257757 /* HYMPersinessLogicLayer.h */; };
+		66D1C9EA1D2B872B00257757 /* HYMPersinessLogicLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 66D1C9E91D2B872B00257757 /* HYMPersinessLogicLayer.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		66D1C9E21D2B872B00257757 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "include/$(PRODUCT_NAME)";
+			dstSubfolderSpec = 16;
+			files = (
+				66D1C9E81D2B872B00257757 /* HYMPersinessLogicLayer.h in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		66D1C9E41D2B872B00257757 /* libHYMPersinessLogicLayer.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libHYMPersinessLogicLayer.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		66D1C9E71D2B872B00257757 /* HYMPersinessLogicLayer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HYMPersinessLogicLayer.h; sourceTree = "<group>"; };
+		66D1C9E91D2B872B00257757 /* HYMPersinessLogicLayer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HYMPersinessLogicLayer.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		66D1C9E11D2B872B00257757 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		66D1C9DB1D2B872B00257757 = {
+			isa = PBXGroup;
+			children = (
+				66D1C9E61D2B872B00257757 /* HYMPersinessLogicLayer */,
+				66D1C9E51D2B872B00257757 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		66D1C9E51D2B872B00257757 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				66D1C9E41D2B872B00257757 /* libHYMPersinessLogicLayer.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		66D1C9E61D2B872B00257757 /* HYMPersinessLogicLayer */ = {
+			isa = PBXGroup;
+			children = (
+				66D1C9E71D2B872B00257757 /* HYMPersinessLogicLayer.h */,
+				66D1C9E91D2B872B00257757 /* HYMPersinessLogicLayer.m */,
+			);
+			path = HYMPersinessLogicLayer;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		66D1C9E31D2B872B00257757 /* HYMPersinessLogicLayer */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 66D1C9ED1D2B872B00257757 /* Build configuration list for PBXNativeTarget "HYMPersinessLogicLayer" */;
+			buildPhases = (
+				66D1C9E01D2B872B00257757 /* Sources */,
+				66D1C9E11D2B872B00257757 /* Frameworks */,
+				66D1C9E21D2B872B00257757 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = HYMPersinessLogicLayer;
+			productName = HYMPersinessLogicLayer;
+			productReference = 66D1C9E41D2B872B00257757 /* libHYMPersinessLogicLayer.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		66D1C9DC1D2B872B00257757 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0710;
+				ORGANIZATIONNAME = Mr.D;
+				TargetAttributes = {
+					66D1C9E31D2B872B00257757 = {
+						CreatedOnToolsVersion = 7.1;
+					};
+				};
+			};
+			buildConfigurationList = 66D1C9DF1D2B872B00257757 /* Build configuration list for PBXProject "HYMPersinessLogicLayer" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 66D1C9DB1D2B872B00257757;
+			productRefGroup = 66D1C9E51D2B872B00257757 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				66D1C9E31D2B872B00257757 /* HYMPersinessLogicLayer */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		66D1C9E01D2B872B00257757 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				66D1C9EA1D2B872B00257757 /* HYMPersinessLogicLayer.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		66D1C9EB1D2B872B00257757 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		66D1C9EC1D2B872B00257757 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		66D1C9EE1D2B872B00257757 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		66D1C9EF1D2B872B00257757 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		66D1C9DF1D2B872B00257757 /* Build configuration list for PBXProject "HYMPersinessLogicLayer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				66D1C9EB1D2B872B00257757 /* Debug */,
+				66D1C9EC1D2B872B00257757 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		66D1C9ED1D2B872B00257757 /* Build configuration list for PBXNativeTarget "HYMPersinessLogicLayer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				66D1C9EE1D2B872B00257757 /* Debug */,
+				66D1C9EF1D2B872B00257757 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 66D1C9DC1D2B872B00257757 /* Project object */;
+}
