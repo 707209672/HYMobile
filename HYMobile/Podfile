@@ -8,6 +8,7 @@ target 'HYMobile' do
 pod 'DZNEmptyDataSet'
 
 
+pod 'CocoaSecurity', '~> 1.2.4'
 
 
 end
