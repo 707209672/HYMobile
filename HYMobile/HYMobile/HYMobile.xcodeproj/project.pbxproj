@@ -374,6 +374,7 @@
 					"\"../UtilityLayer\"/**",
 				);
 				INFOPLIST_FILE = HYMobile/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Freelander.HYMobile;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -395,6 +396,7 @@
 					"\"../UtilityLayer\"/**",
 				);
 				INFOPLIST_FILE = HYMobile/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Freelander.HYMobile;
 				PRODUCT_NAME = "$(TARGET_NAME)";
