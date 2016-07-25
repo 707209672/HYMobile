@@ -19,6 +19,11 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     NSLog(@"你就改，改玩就完了");
+    NSLog(@"你就改，改玩就完了");
+    NSLog(@"你就改，改玩就完了");
+    NSLog(@"你就改，改玩就完了");
+    NSLog(@"你就改，改玩就完了");
+
 }
 
 - (void)didReceiveMemoryWarning {
